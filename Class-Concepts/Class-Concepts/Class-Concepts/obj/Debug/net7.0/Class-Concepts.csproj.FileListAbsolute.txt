@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/bin/Debug/net7.0/Class-Concepts
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/bin/Debug/net7.0/Class-Concepts.deps.json
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/bin/Debug/net7.0/Class-Concepts.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/bin/Debug/net7.0/Class-Concepts.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/bin/Debug/net7.0/Class-Concepts.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/refint/Class-Concepts.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/Class-Concepts.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Class-Concepts/Class-Concepts/Class-Concepts/obj/Debug/net7.0/ref/Class-Concepts.dll
