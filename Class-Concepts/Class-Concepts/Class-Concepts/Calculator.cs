@@ -7,6 +7,7 @@ namespace Class_Concepts
 		{
 		}
 
+		//params modifier
 		public int Add(params int[] a)
 		{
 			int sum = 0;

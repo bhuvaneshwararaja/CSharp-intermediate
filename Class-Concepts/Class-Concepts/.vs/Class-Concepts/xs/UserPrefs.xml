@@ -1,4 +1,28 @@
 ﻿<Properties StartupConfiguration="{47966F87-A0E9-4E0C-87B4-E1BC89E23CA7}|Default">
-  <MonoDevelop.Ide.ItemProperties.Class-Concepts FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Class-Concepts PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Class-Concepts/Program.cs">
+    <Files>
+      <File FileName="Class-Concepts/Program.cs" Line="15" Column="34" />
+      <File FileName="Class-Concepts/Person.cs" Line="4" Column="21" />
+      <File FileName="Class-Concepts/Order.cs" Line="9" Column="19" />
+      <File FileName="Class-Concepts/Calculator.cs" Line="19" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Class-Concepts" expanded="True">
+            <Node name="Class-Concepts" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

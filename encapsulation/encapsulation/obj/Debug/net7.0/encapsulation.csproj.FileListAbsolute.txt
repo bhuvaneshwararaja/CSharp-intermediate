@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/bin/Debug/net7.0/encapsulation
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/bin/Debug/net7.0/encapsulation.deps.json
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/bin/Debug/net7.0/encapsulation.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/bin/Debug/net7.0/encapsulation.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/bin/Debug/net7.0/encapsulation.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/refint/encapsulation.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/encapsulation.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/encapsulation/encapsulation/obj/Debug/net7.0/ref/encapsulation.dll
