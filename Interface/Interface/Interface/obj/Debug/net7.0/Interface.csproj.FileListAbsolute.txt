@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/bin/Debug/net7.0/Interface
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/bin/Debug/net7.0/Interface.deps.json
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/bin/Debug/net7.0/Interface.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/bin/Debug/net7.0/Interface.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/bin/Debug/net7.0/Interface.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/refint/Interface.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/Interface.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Interface/Interface/Interface/obj/Debug/net7.0/ref/Interface.dll
