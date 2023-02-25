@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/bin/Debug/net7.0/Polymorphism
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/bin/Debug/net7.0/Polymorphism.deps.json
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/bin/Debug/net7.0/Polymorphism.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/bin/Debug/net7.0/Polymorphism.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/bin/Debug/net7.0/Polymorphism.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/refint/Polymorphism.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/Polymorphism.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/Poly/Polymorphism/Polymorphism/obj/Debug/net7.0/ref/Polymorphism.dll
