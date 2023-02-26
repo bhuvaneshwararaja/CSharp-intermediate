@@ -1,0 +1,15 @@
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/bin/Debug/net7.0/workflowEngine
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/bin/Debug/net7.0/workflowEngine.deps.json
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/bin/Debug/net7.0/workflowEngine.runtimeconfig.json
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/bin/Debug/net7.0/workflowEngine.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/bin/Debug/net7.0/workflowEngine.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.csproj.AssemblyReference.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.AssemblyInfoInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.AssemblyInfo.cs
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.csproj.CoreCompileInputs.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/refint/workflowEngine.dll
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.pdb
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/workflowEngine.genruntimeconfig.cache
+/Users/ei-lap-8383/Projects/C#-intermediate/workflowEngine/workflowEngine/workflowEngine/obj/Debug/net7.0/ref/workflowEngine.dll
